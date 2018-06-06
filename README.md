@@ -1,6 +1,6 @@
 # Are visa applications less likely to be granted if they are filed in an African country?
 
-You can read the article based on this data analysis [at DW](http://dw.com/a-44099117).
+You can read the article based on this data analysis [at DW](http://dw.com/a-44097212).
 
 **Idea:** by Daniel Pelz
 
@@ -29,6 +29,6 @@ In order to not falsify results, these total figures are filtered out. Additiona
 
 ## Data Analysis results
 
-You can read the article based on this data analysis [at DW](http://dw.com/a-44099117). Results for other regions to follow.
+You can read the article based on this data analysis [at DW](http://dw.com/a-44097212). Results for other regions to follow.
 
 If you would like to look at the data for specific branches or single years, please refer to this [interactive data table](https://dw-data.github.io/datatable-visa-Africa/).
