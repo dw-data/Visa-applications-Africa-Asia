@@ -2,9 +2,9 @@
 
 You can read one article based on this data analysis [at DW](http://dw.com/a-44097212).
 
-**Idea:** by Daniel Pelz
+**Idea:** Daniel Pelz
 
-**Additional Research:** by Rodion Ebbighausen
+**Additional Research:** Rodion Ebbighausen
 
 **Data analysis:** Gianna-Carina Gruen
 
