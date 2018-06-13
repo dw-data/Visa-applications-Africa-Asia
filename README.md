@@ -1,8 +1,12 @@
-# Are visa applications less likely to be granted if they are filed in an African country?
+# How are the prospects of receiving a long-term visa for Germany?
 
-You can read the article based on this data analysis [at DW](http://dw.com/a-44097212).
+You can read one article based on this data analysis [at DW](http://dw.com/a-44097212).
 
 **Idea:** by Daniel Pelz
+
+**Additional Research:** by Rodion Ebbighausen
+
+**Data analysis:** Gianna-Carina Gruen
 
 **Data Source:** German Foreign Office. Provided to German party "Die Linke" via several "Kleine Anfragen" and upon own request
 
@@ -31,6 +35,6 @@ In order to not falsify results, these total figures are filtered out. Additiona
 
 ## Data Analysis results
 
-You can read the article based on this data analysis [at DW](http://dw.com/a-44097212). Results for other regions to follow.
+The results for Africa can be found in this article [at DW](http://dw.com/a-44097212). Results for other regions to follow.
 
-If you would like to look at the data for specific branches or single years, please refer to this [interactive data table](https://dw-data.github.io/datatable-visa-Africa/).
+If you would like to look at the data for specific branches or single years, please refer to this [interactive data table](https://dw-data.github.io/datatable-visa-applications/).
